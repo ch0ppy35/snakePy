@@ -1,0 +1,22 @@
+# Mike's gitignore
+# Editors
+.vscode/
+.idea/
+# Python Stuff
+venv/
+logs/
+__pycache__/
+.pytest_cache/
+instance/
+.webassets-cache
+# Mac Crap
+.DS_Store
+.AppleDouble
+.LSOverride
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
