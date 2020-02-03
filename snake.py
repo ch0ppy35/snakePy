@@ -1,7 +1,7 @@
 import curses
 import random
 
-# basic snake game for python3.  How fitting
+# basic snake game for python3. How fitting
 # Setup the screen
 screen = curses.initscr()
 curses.curs_set(0)
